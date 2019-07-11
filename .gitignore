@@ -1,0 +1,7 @@
+.vs
+lib
+intermediate
+x64
+x86
+
+!/deps

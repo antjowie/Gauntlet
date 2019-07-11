@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+
+<appData>
+  <title>Gauntlet</title>
+  <windows>
+    <window title ="Gauntlet" width="1280" height="720" xPos="20" yPos="300"/>
+  </windows>
+  
+</appData>
